@@ -14,7 +14,51 @@ li[class] {
   color: var(--red);
 }
 
+li[class="dog"] {
+  color: var(--violet);
+}
+
+li[id="cat"] {
+  color: var(--teal);
+}
+
+li[class="parrot"] {
+  color: var(--green);
+}
+
+li[class="donkey"] {
+  color: var(--magenta);
+}
+
+li[class="hedgehog"] {
+  color: var(--violet);
+}
+
+li[class="cat dog parrot"] {
+  color: var(--magenta);
+}
+
 /* Use descendant, child, and sibling selectors for the second part */
+
+.list-food li:nth-child(1){
+  color: var(--green);
+}
+
+.list-food li:nth-child(2){
+  color: var(--darkmagenta);
+}
+
+.list-food li:nth-child(3){
+  color: var(--magenta);
+}
+
+.list-food li:nth-child(4){
+  color: var(--darkmagenta);
+}
+
+.list-cleaning li {
+  color: var(--green);
+}
 
 section li {
   color: var(--green);
