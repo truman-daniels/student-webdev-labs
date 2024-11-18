@@ -4,6 +4,6 @@
 }
 
 p::first-letter {
-  font-size: 2em;  /* Makes the first letter twice as large as the normal text */
-  font-weight: bold;  /* Makes the first letter bold */
+  font-size: 2em; /* Makes the first letter twice as large as the normal text */
+  font-weight: bold; /* Makes the first letter bold */
 }

@@ -40,19 +40,19 @@ li[class="cat dog parrot"] {
 
 /* Use descendant, child, and sibling selectors for the second part */
 
-.list-food li:nth-child(1){
+.list-food li:nth-child(1) {
   color: var(--green);
 }
 
-.list-food li:nth-child(2){
+.list-food li:nth-child(2) {
   color: var(--darkmagenta);
 }
 
-.list-food li:nth-child(3){
+.list-food li:nth-child(3) {
   color: var(--magenta);
 }
 
-.list-food li:nth-child(4){
+.list-food li:nth-child(4) {
   color: var(--darkmagenta);
 }
 
