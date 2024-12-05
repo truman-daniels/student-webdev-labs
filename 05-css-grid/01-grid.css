@@ -3,12 +3,30 @@
 }
 
 /* Grid Container 1 */
+.grid-container-1 {
+  display: grid;
+  grid-template-columns: 1fr 3fr 3fr;
+  gap: 10px;
+}
 
 /* Grid Container 2 */
-
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr 1fr;
+  grid-template-rows: auto 1fr;
+  height: 400px;
+  gap: 10px;
+}
 /* use height: 400px; on the container */
 
 /* Grid Container 3 */
+.grid-container-3 {
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr;
+  grid-template-rows: auto 1fr auto;
+  height: 400px;
+  gap: 10px;
+}
 
 /* use height: 400px; on the container */
 

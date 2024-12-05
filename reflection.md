@@ -1,6 +1,6 @@
-## Reflection Document
+# Reflection Document
 
-### HTML
+## HTML
 
 #### Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 Yes, I was able to figure out these exercises on my own
@@ -14,7 +14,7 @@ I was a little confused on semantic vs non-semanic code
 #### Were there other exercises that might have helped you learn this week’s topic a little better?
 I'm not sure
 
-### Accessibility
+## Accessibility
 
 #### Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 Yes, I was able to figure out these exercises on my own
@@ -28,7 +28,7 @@ I think I got this section
 #### Were there other exercises that might have helped you learn this week’s topic a little better?
 Maybe something to do with contrast would've been cool
 
-### css
+## css
 
 #### Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 Yes, I was able to figure out these exercises on my own
@@ -42,7 +42,7 @@ Nope, I did like the game on the homework that was helpful
 #### Were there other exercises that might have helped you learn this week’s topic a little better?
 See above
 
-### Flexbox
+## Flexbox
 
 #### Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 Yes, I was able to figure out these exercises on my own, except fo one
@@ -56,27 +56,35 @@ No
 #### Were there other exercises that might have helped you learn this week’s topic a little better?
 Not that I can think of
 
-### css-grid
+## css-grid
 
 #### Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
-I struggled with this one/couldn't complete it in time
+I struggled with this one and was only able to figure about half of it
 
 #### How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
+Helpful but hard
 
 #### Was there something that you wish had been explained better?
+I think I just find styling great
 
 #### Were there other exercises that might have helped you learn this week’s topic a little better?
+I'm not sure
 
-### bootstrap
+## bootstrap
 
 #### Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
-No, I needed help, we didn't really go over it in class. I struggled/couldn't finish it. 
+No, I needed help, we didn't really go over it in class.
 
 #### How helpful did you find the exercises in this section? Was there one exercise that was particularly helpful?
-#### Was there something that you wish had been explained better?
-#### Were there other exercises that might have helped you learn this week’s topic a little better?
+Somewhat helpful, they aren't really applied elsewhere in this class
 
-### javascript
+#### Was there something that you wish had been explained better?
+I wish we had time to go over it in class
+
+#### Were there other exercises that might have helped you learn this week’s topic a little better?
+Not that I know of
+
+## javascript
 
 #### Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 Yes, I was able to figure out these exercises for the most part on my own
